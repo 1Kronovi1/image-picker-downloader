@@ -6,7 +6,7 @@ O projeto foi feito para treinar o consumo de APIs RESTful e entender melhor com
 
 ✨ Funcionalidades
 
-🔍 Busca de imagens via API do Pexels
+🔍 Busca de imagens via API do Pexels</br>
 ▶️ Navegar para frente e para trás entre as imagens retornadas
 ⬇️ Download da imagem atual diretamente pelo navegador
 🌐 Interface leve e acessível, feita com HTML, CSS e JavaScript puro
