@@ -1,4 +1,5 @@
 📌 Sobre o projeto
+
 O Image Picker & Downloader nasceu de uma vontade simples: entender na prática como APIs funcionam de verdade.
 A ideia foi consumir a API gratuita do Pexels — um dos maiores bancos de imagens do mundo — e construir uma interface onde fosse possível navegar por imagens, passar para a próxima, voltar para a anterior e baixar a que estiver na tela. Sem cadastro, sem complicação, direto ao ponto.
 O projeto foi feito para treinar o consumo de APIs RESTful e entender melhor como lidar com requisições HTTP, autenticação por chave de API, tratamento de respostas em JSON e integração com funcionalidades do navegador, como o download nativo de arquivos.
